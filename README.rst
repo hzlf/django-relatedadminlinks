@@ -15,9 +15,6 @@ Installation
 Configuration
 =============
 
-django
-------
-
 In your settings.py add 'relatedadminlink' to 'INSTALLED_APPS'
 
 .. code-block:: pycon
