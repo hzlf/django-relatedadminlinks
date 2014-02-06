@@ -7,7 +7,7 @@ setup(
     author_email='ohrstrom@hazelfire.com',
     packages=['relatedadminlink',],
     #scripts=[],
-    url='https://github.com/ohrstrom/django-relatedadminlink/',
+    url='https://github.com/hzlf/django-relatedadminlink/',
     license='LICENSE.txt',
     description='Add links to related objects in django-admin.',
     long_description=open('README.rst').read(),
