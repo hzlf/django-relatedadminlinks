@@ -9,7 +9,7 @@ Installation
 
 .. code-block:: pycon
 
-    pip install -e https://github.com/ohrstrom/django-relatedadminlink.git#egg=django-relatedadminlink
+    pip install -e git+https://github.com/hzlf/django-relatedadminlinks.git#egg=relatedadminlinks
 
 
 Configuration
